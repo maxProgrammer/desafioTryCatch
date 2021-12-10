@@ -4,7 +4,7 @@ import java.util.Locale;
 import java.util.Scanner;
 
 import model.entities.Account;
-import model.excepctions.DomainException;
+import model.exceptions.DomainException;
 
 public class Program {
 
